@@ -1,0 +1,7 @@
+Photo comment:
+a piet program qr.randomized.flipped.embedded.withnl.png
+
+So:
+- Flip the photo horizontally (mirror)
+- Interpret the photo as a piet program
+- Enjoy!

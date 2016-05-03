@@ -1,0 +1,9 @@
+KEY1: embedded in container.zip
+KEY2: core.xml
+KEY3: Tuenti.mp3 info
+KEY4: Cover of Tuenti.mp3 info
+KEY5: Info of the pdf embedded in the cover
+KEY6: Video in the pdf
+KEY7: In the video as attachment file
+KEY8: ramdisk.cpio
+KEY9: gpg encrypted file
